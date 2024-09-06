@@ -4,7 +4,7 @@ HandWaveVolume is an innovative project that allows users to control their compu
 
 ## Features
 
-- **Gesture Recognition**: Detects hand gestures such as raising or lowering your hand to change volume.
+- **Gesture Recognition**: Recognizes thumb and index finger movements to control volume.
 - **Real-Time Control**: Adjust the system's audio in real-time using natural hand movements.
 - **Hands-Free Interface**: No need to interact with any physical volume controls; simply use your hand!
 
